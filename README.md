@@ -1,4 +1,4 @@
-# sharsid.github.io
+# Welcome
 
 Hello! My name is Shar Siddiqui and I am a freshwater ecosystem scientist with an interest in applying data science and GIS towards better understanding ecosystem disturbance and integrity. I am also very interested using open reproducible data pipelines to promote science communication. I am currently working as an ecohydrologist for the Universidad San Francisco de Quito as part of the Amazon Waters Alliance, and also open to future work opportunities. Here's my [google scholar profile](https://scholar.google.com/citations?user=xkbzyrIAAAAJ&hl=en) and a few examples of data visualization that have come out of my PhD and early career hydrology research. Feel free to reach out if you have any questions or inquiries!
 
