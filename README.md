@@ -6,7 +6,7 @@ I am very experienced in pulling water data from online servers and using it to 
 
 <img src="https://github.com/sharsid94/figs/blob/main/fig2.png" alt="flow metrics" width="500" height="400">
 
-Here's a plot I generated for #TidyTuesday while working at the USGS DataViz Lab
+Here's a plot I generated for #TidyTuesday while working at the USGS DataViz Lab (https://waterdata.usgs.gov/blog/static/tidycensus-viz/).
 This plot uses a paired half-rainfall and half-density plot to show the variation in households with plumbing by region. The plot of variation is paired with an inset map to show where those regions are located. Variation can be easily and beautifully plotted with the use of the ggdist package.
 
 <img src="https://waterdata.usgs.gov/blog/static/tidycensus-viz/tidycensus-viz-sharmin.png" alt="tidy tuesday" width="700" height="700">
