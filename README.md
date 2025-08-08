@@ -13,4 +13,5 @@ This plot uses a paired half-rainfall and half-density plot to show the variatio
 
 This is a figure from the first chapter of my dissertation, which coalesces 400 gauges across the Amazon and hierarchical clustering to create a flow regime classifiation. 
 Access a free version of the paper [here](https://www.watershedecology.org/uploads/1/2/7/3/12731039/siddiqui_et_al._2021.pdf)
-![Flow regimes of the Amazon figure](https://github.com/sharsid94/figs/blob/main/fig1.png)
+
+<img src="https://github.com/sharsid94/figs/blob/main/fig1.png" alt="fig1" width="700" height="700">
