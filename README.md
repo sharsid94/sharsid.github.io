@@ -1,6 +1,6 @@
 # sharsid.github.io
 
-Hello! My name is Shar Siddiqui and I am a freshwater ecosystem scientist with an interest in applying data science and GIS towards better understanding ecosystem disturbance and integrity. I am also very interested using open reproducible data pipelines to promote science communication. I am currently working as an ecohydrologist for the Universidad San Francisco de Quito as part of the Amazon Waters Alliance, and also open to future work opportunities. Here's a few examples of data visualization that have come out of my PhD and early career hydrology research. Feel free to reach out if you have any questions or inquiries!
+Hello! My name is Shar Siddiqui and I am a freshwater ecosystem scientist with an interest in applying data science and GIS towards better understanding ecosystem disturbance and integrity. I am also very interested using open reproducible data pipelines to promote science communication. I am currently working as an ecohydrologist for the Universidad San Francisco de Quito as part of the Amazon Waters Alliance, and also open to future work opportunities. Here's my (google scholar profile)[https://scholar.google.com/citations?user=xkbzyrIAAAAJ&hl=en] and a few examples of data visualization that have come out of my PhD and early career hydrology research. Feel free to reach out if you have any questions or inquiries!
 
 I am very experienced in pulling water data from online servers and using it to develop spatially-explicit riverine flow metrics. Here's an example of some useful streamflow metrics in the Amazon Basin, using data from ana.gov.br.
 
@@ -12,5 +12,5 @@ This plot uses a paired half-rainfall and half-density plot to show the variatio
 <img src="https://waterdata.usgs.gov/blog/static/tidycensus-viz/tidycensus-viz-sharmin.png" alt="tidy tuesday" width="700" height="700">
 
 This is a figure from the first chapter of my dissertation, which coalesces 400 gauges across the Amazon and hierarchical clustering to create a flow regime classifiation. 
-Access a free version of the paper here: https://www.watershedecology.org/uploads/1/2/7/3/12731039/siddiqui_et_al._2021.pdf
+Access a free version of the paper (here)[https://www.watershedecology.org/uploads/1/2/7/3/12731039/siddiqui_et_al._2021.pdf]
 ![Flow regimes of the Amazon figure](https://github.com/sharsid94/figs/blob/main/fig1.png)
